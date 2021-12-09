@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mackristof.i3theme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mackristof.i3theme.MyBundle
 
 class MyApplicationService {
 
